@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\Desktop\Project3\Project3\源.cpp(23,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\Project3\Project3\源.cpp(30,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\Project3\Project3\源.cpp(45,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\Project3\Project3\源.cpp(48,16): warning C4305: “参数”: 从“double”到“float”截断
+  Project3.vcxproj -> D:\Desktop\Project3\Debug\Project3.exe
